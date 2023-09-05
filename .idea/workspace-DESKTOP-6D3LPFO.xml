@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="838ad8f9-a256-4dea-9ffe-93b6bc5a5b18" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../codingtest/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codingtest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codingtest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codingtest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codingtest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codingtest/codingtest.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../codingtest" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GChCBDCidUYbQc5lWghRo8emcN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "C:/Users/sprae/OneDrive - inu.ac.kr/coding/jpa/jpa_mysql_noWeb",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.14550781",
+    "project.structure.side.proportion": "0.305",
+    "settings.editor.selected.configurable": "File.Encoding"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ModernJava" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sprae\OneDrive - inu.ac.kr\coding\codingtest\src\ModernJava" />
+      <recent name="C:\Users\sprae\OneDrive - inu.ac.kr\coding\codingtest\src\ModernJava\ch2" />
+      <recent name="C:\Users\sprae\OneDrive - inu.ac.kr\coding\codingtest\src\Tree" />
+      <recent name="C:\Users\sprae\OneDrive - inu.ac.kr\coding\codingtest\src\TreeSet" />
+      <recent name="C:\Users\sprae\OneDrive - inu.ac.kr\coding\codingtest\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sprae\OneDrive - inu.ac.kr\coding\javabook\javaprograming100\1" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="EnumStudy" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Stream" />
+      <recent name="lamdaStream" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TryCatch">
+    <configuration name="Group" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ModernJava.chap06.Group" />
+      <module name="codingtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ModernJava.chap06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PartitionPrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ModernJava.chap06.PartitionPrimeNumbers" />
+      <module name="codingtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ModernJava.chap06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Partitioning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ModernJava.chap06.Partitioning" />
+      <module name="codingtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ModernJava.chap06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReduceSummarize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ModernJava.chap06.ReduceSummarize" />
+      <module name="codingtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ModernJava.chap06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thinking.TryCatch" />
+      <module name="codingtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thinking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TryCatch" />
+        <item itemvalue="Application.Partitioning" />
+        <item itemvalue="Application.PartitionPrimeNumbers" />
+        <item itemvalue="Application.Group" />
+        <item itemvalue="Application.ReduceSummarize" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="838ad8f9-a256-4dea-9ffe-93b6bc5a5b18" name="Changes" comment="" />
+      <created>1665898369910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665898369910</updated>
+      <workItem from="1665898371185" duration="1770000" />
+      <workItem from="1665997126855" duration="1470000" />
+      <workItem from="1666170695883" duration="640000" />
+      <workItem from="1666252668731" duration="3313000" />
+      <workItem from="1666256331475" duration="895000" />
+      <workItem from="1667225667909" duration="3563000" />
+      <workItem from="1667310416578" duration="1426000" />
+      <workItem from="1667347734839" duration="65000" />
+      <workItem from="1667347844440" duration="50000" />
+      <workItem from="1667347906726" duration="164000" />
+      <workItem from="1667348093389" duration="25286000" />
+      <workItem from="1667450993130" duration="10045000" />
+      <workItem from="1667538302347" duration="25087000" />
+      <workItem from="1667625425276" duration="14017000" />
+      <workItem from="1667704815803" duration="11096000" />
+      <workItem from="1667800947699" duration="20007000" />
+      <workItem from="1667878600922" duration="1331000" />
+      <workItem from="1667892453061" duration="1629000" />
+      <workItem from="1667903991420" duration="9154000" />
+      <workItem from="1667960003717" duration="11418000" />
+      <workItem from="1668052844406" duration="2187000" />
+      <workItem from="1668078550655" duration="10060000" />
+      <workItem from="1668131611402" duration="9951000" />
+      <workItem from="1668231414501" duration="9474000" />
+      <workItem from="1668301810109" duration="13078000" />
+      <workItem from="1668427305565" duration="11931000" />
+      <workItem from="1668488697366" duration="17716000" />
+      <workItem from="1668576837762" duration="9742000" />
+      <workItem from="1668673575254" duration="17738000" />
+      <workItem from="1668742877325" duration="13667000" />
+      <workItem from="1668836026918" duration="13267000" />
+      <workItem from="1669019083142" duration="1823000" />
+      <workItem from="1669047063225" duration="1897000" />
+      <workItem from="1669063724905" duration="21000" />
+      <workItem from="1669363506827" duration="4806000" />
+      <workItem from="1669447715145" duration="18000" />
+      <workItem from="1669597725704" duration="1230000" />
+      <workItem from="1669699445468" duration="4884000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javaprograming100/1/src/ch12/part02/main7/result2/TestMain.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javaprograming100/1/src/ch12/part02/main7/result2/TestMain.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
